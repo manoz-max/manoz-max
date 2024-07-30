@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a dedicated and enthusiastic Computer Science
 - 💻 **Interests**: Software Development, Data Science, Machine Learning, Artificial Intelligence, and Cybersecurity.
 - 🌱 **Currently Learning**: Advanced algorithms, system design, and cloud computing.
 - 🤝 **Looking for**: Internship opportunities and collaborative projects.
-- 📫 **Contact**: [manozboggavarpu@gmail.com] (mailto:your-email@example.com)
+- 📫 **Contact**:(mailto:manozboggavarapu@gmail.com)
 
 ### Skills
 
